@@ -1,2 +1,3 @@
-# uk_covid_slides_python
+# SlideTemplater Python demo
+
 Example of using slidetemplater.com with the python API
